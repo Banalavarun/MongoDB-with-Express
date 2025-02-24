@@ -6,7 +6,7 @@ main()
     console.log("Connection established succesfully");
 })
 .catch((err)=>{
-    console.log(err);;
+    console.log(err);
 })
 
 async function main(){
